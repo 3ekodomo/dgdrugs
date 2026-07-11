@@ -398,5 +398,21 @@
     "indications": "प्रमेह, कुष्ठ, शीतपित्त",
     "info": "Turmeric; renowned for its anti-inflammatory and complexion-enhancing properties.",
     "image": "images/haridra.webp"
+  },
+  {
+    "name": "Gokshura",
+    "botanical": "Tribulus terrestris",
+    "family": "Zygophyllaceae",
+    "parts": "फल, मूल",
+    "rasa": "मधुर",
+    "guna": "गुरु, स्निग्ध",
+    "veerya": "शीत",
+    "vipaka": "मधुर",
+    "agrya": "मूत्रकृच्छ्रहर",
+    "karma": "मूत्रल, अश्मरीघ्न, वृष्य, बल्य",
+    "dosha": "वातपित्तशामक",
+    "indications": "मूत्रकृच्छ्र, अश्मरी, प्रमेह, क्लैब्य",
+    "info": "Well-known diuretic, aphrodisiac, and rejuvenative herb used in urinary tract ailments and promoting vitality.",
+    "image": "images/gokshura.webp"
   }
 ]
