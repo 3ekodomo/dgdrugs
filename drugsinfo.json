@@ -1518,5 +1518,37 @@
     "indications": "मूत्रकृच्छ्र, अश्मरी, प्रमेह, क्लैब्य",
     "info": "Well-known diuretic, aphrodisiac, and rejuvenative herb used in urinary tract ailments and promoting vitality.",
     "image": "images/gokshura.webp"
+  },
+  {
+    "name": "Nimba",
+    "botanical": "Azadirachta indica",
+    "family": "Meliaceae",
+    "parts": "त्वक्, पत्र, बीज",
+    "rasa": "तिक्त, कषाय",
+    "guna": "लघु, रूक्ष",
+    "veerya": "शीत",
+    "vipaka": "कटु",
+    "agrya": "कुष्ठघ्न",
+    "karma": "कुष्ठघ्न, कृमिघ्न, व्रणरोपण, ज्वरघ्न",
+    "dosha": "कफपित्तशामक",
+    "indications": "कुष्ठ, ज्वर, प्रमेह, व्रण, कृमि",
+    "info": "A powerful natural antimicrobial and blood purifier, highly regarded for treating skin disorders and infections.",
+    "image": "images/nimba.webp"
+  },
+  {
+    "name": "Musta",
+    "botanical": "Cyperus rotundus",
+    "family": "Cyperaceae",
+    "parts": "कन्द",
+    "rasa": "तिक्त, कटु, कषाय",
+    "guna": "लघु, रूक्ष",
+    "veerya": "शीत",
+    "vipaka": "कटु",
+    "agrya": "पाचन / ग्राही",
+    "karma": "दीपन, पाचन, ग्राही, ज्वरघ्न",
+    "dosha": "कफपित्तशामक",
+    "indications": "ज्वर, अतिसार, तृष्णा, अरुचि, ग्रहणी",
+    "info": "An excellent digestive and astringent herb, particularly effective for gastrointestinal disorders, diarrhea, and fevers.",
+    "image": "images/musta.webp"
   }
 ]
