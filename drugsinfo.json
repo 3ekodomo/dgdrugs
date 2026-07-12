@@ -882,7 +882,7 @@
   {
     "name": "Kumari",
     "botanical": "Aloe vera",
-    "family": "Liliaceae",
+    "family": "Asphodelaceae/Liliaceae",
     "parts": "पत्र",
     "rasa": "तिक्त",
     "guna": "गुरु, स्निग्ध, पिच्छिल",
@@ -898,7 +898,7 @@
   {
     "name": "Rasona",
     "botanical": "Allium sativum",
-    "family": "Liliaceae",
+    "family": "Amaryllidaceae",
     "parts": "कन्द",
     "rasa": "मधुर, लवण, कटु, तिक्त, कषाय",
     "guna": "स्निग्ध, गुरु, तीक्ष्ण",
@@ -914,7 +914,7 @@
   {
     "name": "Shatavari",
     "botanical": "Asparagus racemosus",
-    "family": "Liliaceae",
+    "family": "Asparagaceae",
     "parts": "कन्दमूल",
     "rasa": "मधुर, तिक्त",
     "guna": "गुरु, स्निग्ध",
