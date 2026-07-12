@@ -450,7 +450,7 @@
   {
     "name": "Amalaki",
     "botanical": "Emblica officinalis",
-    "family": "Euphorbiaceae",
+    "family": "Phyllanthaceae/Euphorbiaceae",
     "parts": "फल",
     "rasa": "पञ्चरस (लवणवर्जित), अम्लप्रधान",
     "guna": "लघु, रूक्ष, शीत",
@@ -466,7 +466,7 @@
   {
     "name": "Bhumyamalaki",
     "botanical": "Phyllanthus amarus",
-    "family": "Euphorbiaceae",
+    "family": "Phyllanthaceae/Euphorbiaceae",
     "parts": "पञ्चाङ्ग",
     "rasa": "तिक्त, कषाय, मधुर",
     "guna": "लघु, रूक्ष",
